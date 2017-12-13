@@ -1,0 +1,9 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/LTCG
+"E:\Git2018\MFloog\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4\Shipping\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.cpp.obj"
+"E:\Git2018\MFloog\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4\Shipping\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.gen.cpp.obj"
+"E:\Git2018\MFloog\Intermediate\Build\Win64\UE4\Shipping\OpenVRExpansionPlugin\PCLaunch.rc.res"
+/OUT:"E:\Git2018\MFloog\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Binaries\Win64\UE4-OpenVRExpansionPlugin-Win64-Shipping.lib"
