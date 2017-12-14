@@ -1,0 +1,8 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+"E:\GameDev\Unreal\MultiFloogen2\Plugins\AdvancedSessions\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4\Development\AdvancedSessions\Module.AdvancedSessions.cpp.obj"
+"E:\GameDev\Unreal\MultiFloogen2\Plugins\AdvancedSessions\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4\Development\AdvancedSessions\Module.AdvancedSessions.gen.cpp.obj"
+"E:\GameDev\Unreal\MultiFloogen2\Intermediate\Build\Win64\UE4\Development\AdvancedSessions\PCLaunch.rc.res"
+/OUT:"E:\GameDev\Unreal\MultiFloogen2\Plugins\AdvancedSessions\AdvancedSessions\AdvancedSessions\Binaries\Win64\UE4-AdvancedSessions.lib"
